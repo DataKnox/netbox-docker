@@ -10,11 +10,10 @@
 [![GitHub license](https://img.shields.io/github/license/netbox-community/netbox-docker)][netbox-docker-license]
 
 [The Github repository](netbox-docker-github) houses the components needed to build Netbox as a Docker container.
-Images are built using this code and are released to [Docker Hub][netbox-dockerhub] once a day.
+
 
 Do you have any questions?
-Before opening an issue on Github, please join the [Network To Code][ntc-slack] Slack and ask for help in our [`#netbox-docker`][netbox-docker-slack] channel.
-
+Please reach out to Knox Hutchinson https://Twitter.com/Data_Knox
 [github-stargazers]: https://github.com/netbox-community/netbox-docker/stargazers
 [github-release]: https://github.com/netbox-community/netbox-docker/releases
 [netbox-docker-microbadger]: https://microbadger.com/images/netboxcommunity/netbox
