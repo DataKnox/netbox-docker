@@ -5,4 +5,4 @@ services:
       - 8000:8080
       - 21:21
   netbox:
-    restart: yes
+    restart: always
